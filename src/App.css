@@ -4,14 +4,14 @@
 .container{
   
   height: 200px;
-  width: 300px;
+  width:300px;
   text-align: center;
-  margin: 10px;
+  margin: 50px;
   border-radius: 10px;
   box-shadow: 0 0 10px purple;
   background-color: #FBDA61;
   background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
-  margin-top:100px;
+  margin-top:150px;
 }
 .btn{
   background-color:white;
